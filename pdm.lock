@@ -5,10 +5,10 @@
 groups = ["default"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:39a0fcf06677a00d13a7dfcecbe91c4bdd2e5895073d9f7742d2eaf2ab61a362"
+content_hash = "sha256:79382e8fae5055e67ffded259d74f3bbc157a24ef6e3f1914b56cdfdd29cecd6"
 
 [[metadata.targets]]
-requires_python = "==3.8.*"
+requires_python = ">=3.8"
 
 [[package]]
 name = "aiohappyeyeballs"
